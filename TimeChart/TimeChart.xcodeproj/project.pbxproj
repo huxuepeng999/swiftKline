@@ -24,7 +24,6 @@
 		5E1AED13236BD519005E7268 /* EverMacro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AED05236BD519005E7268 /* EverMacro.swift */; };
 		5E1AED14236BD519005E7268 /* EverLineModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AED06236BD519005E7268 /* EverLineModel.swift */; };
 		5E1AED15236BD519005E7268 /* EverColumnModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AED07236BD519005E7268 /* EverColumnModel.swift */; };
-		5E1AED17236BD519005E7268 /* CalculateDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AED09236BD519005E7268 /* CalculateDate.swift */; };
 		5E1AED18236BD519005E7268 /* ChartLineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AED0A236BD519005E7268 /* ChartLineView.swift */; };
 		5E1AED19236BD519005E7268 /* YAxis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AED0B236BD519005E7268 /* YAxis.swift */; };
 		5E1AED1A236BD519005E7268 /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AED0C236BD519005E7268 /* Section.swift */; };
@@ -73,7 +72,6 @@
 		5E1AED05236BD519005E7268 /* EverMacro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EverMacro.swift; sourceTree = "<group>"; };
 		5E1AED06236BD519005E7268 /* EverLineModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EverLineModel.swift; sourceTree = "<group>"; };
 		5E1AED07236BD519005E7268 /* EverColumnModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EverColumnModel.swift; sourceTree = "<group>"; };
-		5E1AED09236BD519005E7268 /* CalculateDate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculateDate.swift; sourceTree = "<group>"; };
 		5E1AED0A236BD519005E7268 /* ChartLineView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChartLineView.swift; sourceTree = "<group>"; };
 		5E1AED0B236BD519005E7268 /* YAxis.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YAxis.swift; sourceTree = "<group>"; };
 		5E1AED0C236BD519005E7268 /* Section.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
@@ -168,7 +166,6 @@
 				5E1AED05236BD519005E7268 /* EverMacro.swift */,
 				5E1AED06236BD519005E7268 /* EverLineModel.swift */,
 				5E1AED07236BD519005E7268 /* EverColumnModel.swift */,
-				5E1AED09236BD519005E7268 /* CalculateDate.swift */,
 				5E1AED0A236BD519005E7268 /* ChartLineView.swift */,
 				5E1AED0B236BD519005E7268 /* YAxis.swift */,
 				5E1AED0C236BD519005E7268 /* Section.swift */,
@@ -318,7 +315,6 @@
 				5E5A69292371152F008BE2DB /* ColorClass.swift in Sources */,
 				5E1AECD5236BD48B005E7268 /* ViewController.swift in Sources */,
 				5E1AED14236BD519005E7268 /* EverLineModel.swift in Sources */,
-				5E1AED17236BD519005E7268 /* CalculateDate.swift in Sources */,
 				5E1AED18236BD519005E7268 /* ChartLineView.swift in Sources */,
 				5E1AED19236BD519005E7268 /* YAxis.swift in Sources */,
 				5E1AED0F236BD519005E7268 /* ChartData.swift in Sources */,

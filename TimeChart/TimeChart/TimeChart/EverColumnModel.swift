@@ -175,7 +175,6 @@ class EverColumnModel: ChartModel {
                 yaxis.min = value
             }
         }
-        print("a====",yaxis.max,yaxis.min)
         if yaxis.max < 2 {
             yaxis.max = 2
         }
